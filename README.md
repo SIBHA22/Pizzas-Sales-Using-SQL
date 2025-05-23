@@ -1,7 +1,7 @@
 # Pizza-Sales-Using-SQL
 This project aims to provide a comprehensive analysis of pizza sales data using SQL. 
-By examining various aspects of the sales data, we can gain insights into sales trends, pr
-oduct performance, customer behavior, and operational efficiency. 
+By examining various aspects of the sales data, we can gain insights into sales trends, 
+product performance, customer behavior, and operational efficiency. 
 This analysis can help inform strategic decisions for improving sales and operational processes.
 
 ## Primary Objectives
